@@ -1,6 +1,7 @@
 {
     "$schema": "./node_modules/wrangler/config-schema.json",
-    "name": "cloudflare-vite-tutorial",
+    // wrangler.jsonc
+    "name": "example-1",
     // Set this to today's date
     "compatibility_date": "2026-06-19",
     "assets": {
